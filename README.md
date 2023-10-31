@@ -42,8 +42,8 @@ This repository contains the source code and documentation for a Smart Traffic S
 1. Clone the repository:
 
    ```bash
-   git clone https:https://github.com/Logeshj04/Project_iot_logesh1.git
-
+   git clone https://github.com/migokulnath/project.git
+   
  2.Set up the IoT sensors:
  
    Follow the instructions provided in the iot-sensors directory to set up your IoT devices for data collection.
